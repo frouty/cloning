@@ -25,10 +25,10 @@ Nobody seems to know this trick... dd is an asymmetrical copying program, meanin
 
 
 # Change root password on ubuntu  
-1 Reboot
-2 Hold shift during boot to start grub menu
-3 Highlight your image and press E to edit
-4 find the line starting with *linux* and append rw init=/bin/bash at the end of that line.
-5 press Ctrl + x to boot
-6 type password root (ou a username)
-7 set your password
+1 Reboot  
+2 Hold shift during boot to start grub menu  
+3 Highlight your image and press E to edit  
+4 find the line starting with *linux* and append rw init=/bin/bash at the end of that line.  
+5 press Ctrl + x to boot  
+6 type password root (ou a username)  
+7 set your password  
